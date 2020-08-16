@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/react-clone-interface/static/js/main.3b89afdb.chunk.js",
-    "main.js.map": "/react-clone-interface/static/js/main.3b89afdb.chunk.js.map",
-    "runtime-main.js": "/react-clone-interface/static/js/runtime-main.119e3e8e.js",
-    "runtime-main.js.map": "/react-clone-interface/static/js/runtime-main.119e3e8e.js.map",
-    "static/js/2.60ee3425.chunk.js": "/react-clone-interface/static/js/2.60ee3425.chunk.js",
-    "static/js/2.60ee3425.chunk.js.map": "/react-clone-interface/static/js/2.60ee3425.chunk.js.map",
-    "index.html": "/react-clone-interface/index.html",
-    "precache-manifest.0afaeee06ab832f9d4f5b0ee4f03f694.js": "/react-clone-interface/precache-manifest.0afaeee06ab832f9d4f5b0ee4f03f694.js",
-    "service-worker.js": "/react-clone-interface/service-worker.js",
-    "static/js/2.60ee3425.chunk.js.LICENSE.txt": "/react-clone-interface/static/js/2.60ee3425.chunk.js.LICENSE.txt",
-    "static/media/googleLogo.svg": "/react-clone-interface/static/media/googleLogo.a49aa431.svg"
+    "main.js": "/react-clones-interfaces/static/js/main.4437b48f.chunk.js",
+    "main.js.map": "/react-clones-interfaces/static/js/main.4437b48f.chunk.js.map",
+    "runtime-main.js": "/react-clones-interfaces/static/js/runtime-main.11915f27.js",
+    "runtime-main.js.map": "/react-clones-interfaces/static/js/runtime-main.11915f27.js.map",
+    "static/js/2.27f780a1.chunk.js": "/react-clones-interfaces/static/js/2.27f780a1.chunk.js",
+    "static/js/2.27f780a1.chunk.js.map": "/react-clones-interfaces/static/js/2.27f780a1.chunk.js.map",
+    "index.html": "/react-clones-interfaces/index.html",
+    "precache-manifest.973489e449099c235d38f007aba5cc61.js": "/react-clones-interfaces/precache-manifest.973489e449099c235d38f007aba5cc61.js",
+    "service-worker.js": "/react-clones-interfaces/service-worker.js",
+    "static/js/2.27f780a1.chunk.js.LICENSE.txt": "/react-clones-interfaces/static/js/2.27f780a1.chunk.js.LICENSE.txt",
+    "static/media/googleLogo.svg": "/react-clones-interfaces/static/media/googleLogo.a49aa431.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.119e3e8e.js",
-    "static/js/2.60ee3425.chunk.js",
-    "static/js/main.3b89afdb.chunk.js"
+    "static/js/runtime-main.11915f27.js",
+    "static/js/2.27f780a1.chunk.js",
+    "static/js/main.4437b48f.chunk.js"
   ]
 }
